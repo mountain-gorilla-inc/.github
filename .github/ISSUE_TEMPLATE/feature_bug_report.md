@@ -1,8 +1,8 @@
 ---
-title: '【バグ】xxxx'
-name: 'バグ報告'
-about: 'バグ報告'
-labels: 'bug'
+title: 【バグ】xxxx
+name: バグ報告
+about: バグ報告
+labels: bug
 ---
 
 ## 起こっている問題

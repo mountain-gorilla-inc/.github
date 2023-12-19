@@ -1,8 +1,8 @@
 ---
-title: '【API連携】xxxx'
-name: 'フロントリポジトリAPI連携機能追加'
-about: 'フロントリポジトリAPI連携機能追加'
-labels: 'API連携, 機能追加'
+title: 【API連携】xxxx
+name: フロントリポジトリAPI連携機能追加
+about: フロントリポジトリAPI連携機能追加
+labels: API連携, 機能追加
 ---
 
 ## 機能追加の目的
