@@ -1,4 +1,5 @@
 ---
+title: '【バグ】xxxx'
 name: 'バグ報告'
 about: 'バグ報告'
 labels: 'bug'

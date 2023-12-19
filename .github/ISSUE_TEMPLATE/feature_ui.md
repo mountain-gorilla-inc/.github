@@ -1,4 +1,5 @@
 ---
+title: '【UI】xxxx'
 name: 'フロントリポジトリ機能追加'
 about: 'フロントリポジトリ機能追加'
 labels: 'UI, 機能追加'

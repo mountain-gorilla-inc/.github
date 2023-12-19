@@ -1,4 +1,5 @@
 ---
+title: '【API】xxxx'
 name: 'APIリポジトリ機能追加'
 about: 'APIリポジトリ機能追加'
 labels: 'API, 機能追加'
